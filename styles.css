@@ -1,0 +1,32 @@
+* {
+    background-color: rgb(243, 179, 168);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: bold;
+    color: rgb(26, 6, 72);
+}
+
+h2 {
+    font-size: 27px;
+    font-weight: bold;
+    color: rgb(5, 72, 4);
+}
+
+ul li {
+    list-style: none;
+}
+
+ul li a {
+    text-decoration: none;
+    font-size: 25px;
+    color: azure;
+}
+
+.popis {
+    font-weight: bold;
+    text-align: center;
+}
